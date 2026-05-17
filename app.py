@@ -25,8 +25,8 @@ weight = st.sidebar.number_input("Вес", 30, 200, 70)
 ap_hi = st.sidebar.number_input("Систолическое давление", 80, 250, 120)
 ap_lo = st.sidebar.number_input("Диастолическое давление", 40, 150, 80)
 
-chol = st.sidebar.number_input("Холестерин", 1, 3, 1)
-gluc = st.sidebar.number_input("Глюкоза", 1, 3, 1)
+chol = st.sidebar.number_input("Холестерин", 1, 50, 1)
+gluc = st.sidebar.number_input("Глюкоза", 1, 50, 1)
 
 # BMI
 bmi = weight / ((height / 100) ** 2)
