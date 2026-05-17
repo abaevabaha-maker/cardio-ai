@@ -14,7 +14,7 @@ model = pickle.load(open("model.pkl", "rb"))
 # UI
 # ======================
 
-st.title("🏥 Cardio AI")
+st.title("🏥 Cистема оценки риска сердечно-сосудистых заболеваний")
 
 st.sidebar.header("Введите данные пациента")
 
