@@ -6,10 +6,14 @@ Cardio AI — это проект машинного обучения, кото�
 
 ## 📊 Датасет
 
+- https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset/data
 - cardio_train.csv (Kaggle)
 - ~70 000 записей пациентов
 
 ---
+Ссылка на Демо проекта в streamlit
+https://cardio-ai-uedjho5lbaaaydjce8pgkh.streamlit.app/
+
 
 ## 🧠 Признаки
 
